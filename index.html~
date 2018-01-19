@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Caleb Pomar, Geek Extraordinaire</title>
+	</head>
+
+	<body>
+		<h1>About Me</h1>
+			<p>
+				My name is Caleb Pomar. I'm an amateur linguist studying<br />
+				Computer Science at BYU. I enjoy hockey, dirtbike riding<br />
+				and watching Psych.
+			</p>
+			<hr>
+		<h1>Projects</h1>
+			<ol>
+				<li>A program that simulates Plinko</li>
+				<li>A basic online shopping cart</li>
+				<li>This Website!!</li>
+			</ol>
+			<hr>
+		<h1>Experience</h1>
+			<ul>
+				<li>Assistant Secretary to a Real Estate Agent</li>
+				<li>Executive Administrative Assistant for a non-profit religious organization</li>
+				<li>Bookkeeper for Powerhouse, Inc.</li>
+			</ul>
+			<hr>
+		<h2>Contact Me</h2>
+			<ul>
+				<li> <a href=https://github.com/sonofflynn89> GitHub </a> </li>
+				<li> <a href=https://www.facebook.com/caleb.pomar> Facebook </a> </li>
+			</ul>
+	</body>
+
+</html>
